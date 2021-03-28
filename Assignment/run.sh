@@ -45,7 +45,7 @@ touch tmp
 # ./mariadbi.sh 3 5 'A-1000.csv' 'B-1000-10-4.csv'
 # ./mariadbi.sh 3 6 'A-1000.csv' 'B-1000-50-4.csv'
 # ./mariadbi.sh 3 7 'A-10000.csv' 'B-10000-5-4.csv'
-# ./mariadbi.sh 3 8 'A-10000.csv' 'B-10000-50-4.csv'
+./mariadbi.sh 3 8 'A-10000.csv' 'B-10000-50-4.csv'
 # ./mariadbi.sh 3 9 'A-10000.csv' 'B-10000-500-4.csv'
 
 
@@ -58,4 +58,3 @@ touch tmp
 # ./sqlite.sh 1 7 'A-10000.csv' 'B-10000-5-4.csv'
 # ./sqlite.sh 1 8 'A-10000.csv' 'B-10000-50-4.csv'
 # ./sqlite.sh 1 9 'A-10000.csv' 'B-10000-500-4.csv'
-
